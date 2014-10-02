@@ -11,8 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Make it easy for you to monetize premium content on your site through new reading experience.
 
 == Description ==
-
-** demo: [http://demo.grabimo.com/?page_id=143](http://demo.grabimo.com/?page_id=143) **
+**sign up at [https://paywall.grabimo.com](https://paywall.grabimo.com)**
 
 Large newspaper publishers such as the Wall Street Journal and the New York Times have been using paywalls to generate extra revenue, asking readers to pay for accessing their contents. 
 
