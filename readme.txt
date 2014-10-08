@@ -12,6 +12,7 @@ Make it easy for you to monetize premium content on your site through new readin
 
 == Description ==
 **Sign Up at [https://paywall.grabimo.com](https://paywall.grabimo.com)**
+
 **Live Demo: [http://demo.grabimo.com/?p=132](http://demo.grabimo.com/?p=132)**
 
 Large newspaper publishers such as the Wall Street Journal and the New York Times have been using paywalls to generate extra revenue, asking readers to pay for accessing their contents. 
