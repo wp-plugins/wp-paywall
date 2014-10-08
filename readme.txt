@@ -1,5 +1,5 @@
 === Wordpress Paywall ===
-Contributors: Grabimo
+Contributors: grabimo
 Donate link: https://paywall.grabimo.com/
 Tags: paywall, redaction, digital goods, micropayments, content monetization, make money, monetize, paid content, pay, pay per view, pay per read, paypal, premium content, subscription, , credit card
 Requires at least: 3.0.1
@@ -11,7 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Make it easy for you to monetize premium content on your site through new reading experience.
 
 == Description ==
-**sign up at [https://paywall.grabimo.com](https://paywall.grabimo.com)**
+**Sign Up at [https://paywall.grabimo.com](https://paywall.grabimo.com)**
+**Live Demo: [http://demo.grabimo.com/?p=132](http://demo.grabimo.com/?p=132)**
 
 Large newspaper publishers such as the Wall Street Journal and the New York Times have been using paywalls to generate extra revenue, asking readers to pay for accessing their contents. 
 
