@@ -19,7 +19,7 @@ function paywall_tinymce_registerbutton( $buttons ) {
 }
 
 function paywall_tinymce_addplugin( $plugin_array ) {
-	$plugin_array ['paywall'] = plugins_url ( 'tinymce/plugins/paywall/editor_plugin.js' );
+	$plugin_array ['paywall'] = plugins_url ( 'wp-paywall/tinymce/plugins/paywall/editor_plugin.js' );
 	return $plugin_array;
 }
 

@@ -7,7 +7,7 @@
 
  * Description: The plugin allows you to setup a paywall for your valuable posts. Contents can be redacted and only fully accessible to paid viewers. 
 
- * Version: 1.0.0
+ * Version: 1.0.1
 
  * Author: Grabimo
 

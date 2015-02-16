@@ -4,7 +4,7 @@ Donate link: https://paywall.grabimo.com/
 Tags: paywall, redaction, digital goods, micropayments, content monetization, make money, monetize, paid content, pay, pay per view, pay per read, paypal, premium content, subscription, , credit card
 Requires at least: 3.0.1
 Tested up to: 3.8
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,9 @@ Grabimo Paywall now supports minimum price amount of $0.40.
 4. A WebMD article was redacted.
 
 == Changelog ==
+
+= 1.0.1 =
+* Fixed quick tag
 
 = 1.0.0 =
 * Initial release
