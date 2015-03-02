@@ -4,7 +4,7 @@ Donate link: https://paywall.grabimo.com/
 Tags: paywall, redaction, digital goods, micropayments, content monetization, make money, monetize, paid content, pay, pay per view, pay per read, paypal, premium content, subscription, , credit card
 Requires at least: 3.0.1
 Tested up to: 3.8
-Stable tag: 1.0.2
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Make it easy for you to monetize premium content on your site through new readin
 
 == Description ==
 
-**This plugin is deprecated.**
+**!!! This plugin is deprecated !!!**
 
 
 Large newspaper publishers such as the Wall Street Journal and the New York Times have been using paywalls to generate extra revenue, asking readers to pay for accessing their contents. 
